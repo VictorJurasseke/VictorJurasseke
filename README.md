@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0040FF,100:00A8FF&height=180&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:0040FF,100:00A8FF&height=140&section=header&animation=fadeIn)
 
 <div align="center">
 
@@ -8,16 +8,16 @@
 
 <br/>
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | Engenharia de Software — Unoeste · 4º período |
-| 🛠️ | React · Node.js · SQL Server · JWT |
-| 📍 | Santo Anastácio, SP |
-| 💼 | 1 ano de experiência em TI · 2 sistemas em produção |
-
-</div>
+```javascript
+const victor = {
+  role:        "Dev Full Stack",
+  local:       "Santo Anastácio · SP",
+  formacao:    "Engenharia de Software · Unoeste · 4º período",
+  experiencia: "1 ano em TI · 2 sistemas em produção",
+  stack:       ["React", "Node.js", "SQL Server", "JWT"],
+  contato:     "victorjurassekevaz@gmail.com"
+}
+```
 
 ---
 
@@ -121,4 +121,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,100:0040FF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=0:00A8FF,100:0040FF&height=100&section=footer)
