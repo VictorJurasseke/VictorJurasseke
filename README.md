@@ -95,13 +95,29 @@ const victor = {
 ## Formação
 
 <div align="center">
-
-| Curso | Instituição | Período |
-|:---|:---|:---|
-| Engenharia de Software | Unoeste | 2024 — em andamento |
-| Técnico em Desenvolvimento de Sistemas | SENAI | 2023 — 2025 |
-| Desenvolvimento JavaScript | SENAI | 60h |
-
+<table border="0" cellpadding="12">
+  <tr>
+    <td align="center"><sub>2023 — 2025</sub></td>
+    <td><sub>━━━━━━━━━━━━</sub></td>
+    <td align="center"><sub>2024 — cursando</sub></td>
+    <td><sub>━━━━━━━━━━━━</sub></td>
+    <td align="center"><sub>2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center">◉</td>
+    <td></td>
+    <td align="center">◉</td>
+    <td></td>
+    <td align="center">◉</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Técnico em<br/>Desenvolvimento<br/>de Sistemas</b><br/><sub>SENAI</sub></td>
+    <td></td>
+    <td align="center"><b>Engenharia<br/>de Software</b><br/><sub>Unoeste</sub></td>
+    <td></td>
+    <td align="center"><b>Desenvolvimento<br/>JavaScript</b><br/><sub>SENAI · 60h</sub></td>
+  </tr>
+</table>
 </div>
 
 ---
