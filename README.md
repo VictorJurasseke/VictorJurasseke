@@ -71,5 +71,4 @@ Desenvolvimento JavaScript — 60h · SENAI
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lucas-jurasseke-sales-53657b350/)
-
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victorjurassekevaz@gmail.com)
