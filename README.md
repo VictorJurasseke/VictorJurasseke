@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0040FF,100:00A8FF&height=180&section=header&animation=fadeIn)
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E)
+
+</div>
+
 <br/>
 
 <div align="center">
