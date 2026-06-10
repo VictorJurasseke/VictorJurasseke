@@ -19,7 +19,7 @@ const victor = {
 
 ---
 
-## ⚡ Stack
+## Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ const victor = {
 
 ---
 
-## 🛰️ Projetos em produção
+## Projetos em produção
 
 <table>
   <tr>
@@ -92,7 +92,7 @@ const victor = {
 
 ---
 
-## 🎓 Formação
+## Formação
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const victor = {
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
