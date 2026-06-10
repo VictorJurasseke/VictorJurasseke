@@ -2,21 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E)
 
-</div>
-
----
-
-<div align="center">
-
-```
-⠀⠀⠀⠀⠀⣀⣀⣀⠀⠀⠀⠀
-⠀⠀⠀⢠⣾⣿⣿⣿⣷⡄⠀⠀
-⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⡄⠀   > Victor Lucas Jurasseke Sales
-⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀   > Dev Full Stack · Santo Anastácio - SP
-⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⠏⠀   > Engenharia de Software · Unoeste
-⠀⠀⠀⠙⢿⣿⣿⣿⡿⠋⠀⠀   > Aberto a oportunidades remotas
-⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀⠀
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=BD00FF&height=120&section=header&text=Victor%20Lucas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 </div>
 
@@ -86,19 +72,6 @@
 
 ---
 
-## 🔭 Atualmente construindo
-
-```javascript
-const projeto = {
-  nome: "SaaS de gestão de manutenções preventivas",
-  stack: ["React", "Node.js", "PostgreSQL", "Prisma"],
-  status: "em desenvolvimento",
-  objetivo: "ajudar empresas a organizar manutenções e passar em auditorias"
-}
-```
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -108,7 +81,7 @@ const projeto = {
 
 </div>
 
----
+![footer](https://capsule-render.vercel.app/api?type=waving&color=BD00FF&height=100&section=footer)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VictorJurasseke&color=BD00FF&style=flat-square&label=Visitantes" alt="visitors"/>
