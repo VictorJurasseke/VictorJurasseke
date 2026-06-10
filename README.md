@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Lucas+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Transformo+problemas+em+software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E;%3CEngenhariaDeSoftware+%2F%3E;%3CTransformandoProblemasEmSoftware+%2F%3E)
 
 </div>
 
