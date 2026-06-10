@@ -47,23 +47,29 @@ Stack: React · Node.js · SQL Server · JWT
 
 ---
 
-**Sistema de envio automático de câmeras com defeito**
-Automação do processo de RMA de equipamentos de vigilância, eliminando o controle manual e reduzindo o tempo de abertura de chamados.
+**Sistema de monitoramento automatizado de câmeras de segurança**
+Solução de automação para monitoramento diário de infraestrutura de vigilância. O sistema realiza varredura automática de DVRs via rede, captura imagem de cada canal, detecta câmeras com defeito ou não instaladas e gera um relatório completo — tudo sem intervenção humana.
 
-Stack: Node.js · SQL Server · Nodemailer
+Todo dia às 8h dispara automaticamente: mensagem via WhatsApp com o resumo da varredura (total analisado, funcionando, com defeito, não instaladas) e e-mail com PDF anexo contendo as imagens de todos os canais em ordem, sinalizando os defeitos.
+
+Stack: Node.js · node-cron · Sharp · Nodemailer · Ping
 
 ---
 
 ## 🎓 Formação
 
+Engenharia de Software — Unoeste (4º período em andamento)
+
 Técnico em Desenvolvimento de Sistemas — SENAI
+
+## 📜 Cursos e certificados
+
+Desenvolvimento JavaScript — 60h · SENAI
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lucas-jurasseke-sales-53657b350/)
 
 ---
-
-> Aberto a oportunidades remotas como Desenvolvedor Full Stack.
