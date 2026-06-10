@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD00FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E;%3CEngenhariaDeSoftware+%2F%3E;%3CTransformandoProblemasEmSoftware+%2F%3E)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=BD00FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E)
 
 </div>
 
@@ -84,6 +84,20 @@
 | Técnico em Desenvolvimento de Sistemas | SENAI | 2023 — 2025 |
 | Desenvolvimento JavaScript | SENAI | 60h |
 
+---
+
+## 🔭 Atualmente construindo
+
+```javascript
+const projeto = {
+  nome: "SaaS de gestão de manutenções preventivas",
+  stack: ["React", "Node.js", "PostgreSQL", "Prisma"],
+  status: "em desenvolvimento",
+  objetivo: "ajudar empresas a organizar manutenções e passar em auditorias"
+}
+```
+
+---
 
 ## 📫 Contato
 
@@ -97,5 +111,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictorJurasseke&color=00f5ff&style=flat-square&label=Visitantes" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=VictorJurasseke&color=BD00FF&style=flat-square&label=Visitantes" alt="visitors"/>
 </div>
