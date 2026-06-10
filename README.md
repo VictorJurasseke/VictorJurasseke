@@ -84,20 +84,6 @@
 | Técnico em Desenvolvimento de Sistemas | SENAI | 2023 — 2025 |
 | Desenvolvimento JavaScript | SENAI | 60h |
 
----
-
-## 🔭 Atualmente construindo
-
-```javascript
-const projeto = {
-  nome: "SaaS de gestão de manutenções preventivas",
-  stack: ["React", "Node.js", "PostgreSQL", "Prisma"],
-  status: "em desenvolvimento",
-  objetivo: "ajudar empresas a organizar manutenções e passar em auditorias"
-}
-```
-
----
 
 ## 📫 Contato
 
