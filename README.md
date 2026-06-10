@@ -1,5 +1,3 @@
-# Olá, eu sou o Victor Lucas 👋
-
 Desenvolvedor Full Stack de Santo Anastácio - SP, com foco em sistemas web modernos e soluções corporativas. Transformo problemas reais de operação em software que as pessoas usam no dia a dia.
 
 ---
