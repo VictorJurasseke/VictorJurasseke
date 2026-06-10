@@ -94,11 +94,11 @@ const victor = {
 
 ## Formação
 
-◉ &nbsp; **2024 — 2028 — CURSANDO** &nbsp;·&nbsp; Engenharia de Software · Unoeste
+◉ &nbsp; **2024 — 2028** &nbsp; ![Cursando](https://img.shields.io/badge/Cursando-00A8FF?style=flat-square) &nbsp;·&nbsp; Engenharia de Software · Unoeste
 
-◉ &nbsp; **2025 — CONCLUIDO** &nbsp;·&nbsp; Desenvolvimento JavaScript · SENAI · 60h
+◉ &nbsp; **2022 — 2024** &nbsp; ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-2ECC71?style=flat-square) &nbsp;·&nbsp; Técnico em Desenvolvimento de Sistemas · SENAI
 
-◉ &nbsp; **2022 — 2024 — CONCLUIDO** &nbsp;·&nbsp; Técnico em Desenvolvimento de Sistemas · SENAI
+◉ &nbsp; **2025** &nbsp; ![Concluído](https://img.shields.io/badge/Conclu%C3%ADdo-2ECC71?style=flat-square) &nbsp;·&nbsp; Desenvolvimento JavaScript · SENAI · 60h
 
 ---
 
