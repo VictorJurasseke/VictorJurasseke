@@ -8,17 +8,6 @@
 
 <br/>
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🎓 | Engenharia de Software — Unoeste · 4º período |
-| 🛠️ | React · Node.js · SQL Server · JWT |
-| 📍 | Santo Anastácio, SP |
-| 💼 | 1 ano de experiência em TI · 2 sistemas em produção |
-
-</div>
-
 ---
 
 ## ⚡ Stack
