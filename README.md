@@ -60,7 +60,7 @@ Stack: Node.js · node-cron · Sharp · Nodemailer · Ping
 
 Engenharia de Software — Unoeste (4º período em andamento)
 
-Técnico em Desenvolvimento de Sistemas — SENAI
+Técnico em Desenvolvimento de Sistemas — SENAI · 2023 a 2025
 
 ## 📜 Cursos e certificados
 
@@ -72,3 +72,7 @@ Desenvolvimento JavaScript — 60h · SENAI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-lucas-jurasseke-sales-53657b350/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victorjurassekevaz@gmail.com)
+
+---
+
+> Aberto a oportunidades remotas como Desenvolvedor Full Stack.
