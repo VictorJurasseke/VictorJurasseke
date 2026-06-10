@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:0040FF,100:00A8FF&height=140&section=header&animation=fadeIn)
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=%3CVictorLucasJurassekeSales+%2F%3E;%3CDevFullStack+%2F%3E)
@@ -120,5 +118,3 @@ const victor = {
 <img src="https://komarev.com/ghpvc/?username=VictorJurasseke&color=00A8FF&style=flat-square&label=Visitantes" alt="visitors"/>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=shark&color=0:00A8FF,100:0040FF&height=100&section=footer)
