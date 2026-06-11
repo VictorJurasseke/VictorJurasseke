@@ -21,6 +21,8 @@ const victor = {
 
 ## Stack
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJurasseke&layout=compact)
+
 <div align="center">
 
 **Frontend**
