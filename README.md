@@ -12,7 +12,7 @@ const victor = {
   local:       "Santo Anastácio · SP",
   formacao:    "Engenharia de Software · Unoeste · 4º período",
   experiencia: "1 ano em TI · 2 sistemas em produção",
-  stack:       ["React", "Node.js", "SQL Server", "JWT"],
+  stack:       ["React", "Node.js", "SQL Server"],
   contato:     "victorjurassekevaz@gmail.com"
 }
 ```
